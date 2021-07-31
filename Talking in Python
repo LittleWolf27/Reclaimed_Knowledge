@@ -1,0 +1,18 @@
+print("Sentences are Lines")
+
+print("Sample code")
+print("x = 2")
+print("x = x + 2")
+print("Print (x)")
+
+print("...")
+
+print("x = 2 ---- Asignment Line or Defining Veriable")
+print("x = x + 2 ---- Asignment with expression")
+print("Print (x) ---- Print Function")
+
+print("...")
+
+print("x = Veriable")
+print("2 = expression")
+print("Print = a function")
